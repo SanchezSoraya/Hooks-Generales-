@@ -19,6 +19,7 @@ module.exports = {
   rules: {
     'no-unused-vars': 'warn',
     'react/react-in-jsx-scope': 0,
-    'react/jsx-uses-react': 0
+    'react/jsx-uses-react': 0,
+    'no-empty-pattern': 'off'
   }
 }
